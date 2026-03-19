@@ -1,0 +1,15 @@
+Sentence: I love India.
+POS Tags:
+[I] -> PRP
+[love] -> VBP
+[India] -> NNP
+[.] -> .
+
+Sentence: He is playing cricket.
+POS Tags:
+[He] -> PRP
+[is] -> VBZ
+[playing] -> VBG
+[cricket] -> NN
+[.] -> .
+
